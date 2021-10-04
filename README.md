@@ -1,1 +1,1 @@
-A cool source for minting ERC721, ERC1155 tokens!
+A source for minting ERC721, ERC1155 tokens!
